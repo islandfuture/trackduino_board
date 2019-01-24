@@ -20,6 +20,6 @@ robotrack и tools.
 Дописываем что не хватает (на всякий случай делаем копию оригинального файла).
 
 Все! Загружаем Arduino IDE и в Меню Tools -> Boards должен появится раздел Robotrack
-и вне плата Trackduino v2.
+и в нем плата Trackduino v2 !(http://prntscr.com/mbqzic).
 
 Выбираем ее и начинаем заливать.
